@@ -6,7 +6,7 @@ doc.rust-lang.org/book/
 
 
 
-## uodating rust
+## updating rust
 $ rustup update
 $ rustup self uninstall
 
@@ -19,3 +19,10 @@ $ cargo new <proj_name>
 $ cargo run
 $ cargo build
 $ cargo check
+
+## Format commands
+$ rustfmt
+
+
+## Documentation
+$ cargo doc --open
